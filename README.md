@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratyuspati
 - 👀 I’m interested in: _*everything*_
 - 🌱 I’m currently learning: functional programming, web-app development
-- 💞️ I’m looking to collaborate on: open-source projects, scientific computing, n
+- 💞️ I’m looking to collaborate on: open-source projects, scientific computing
 - 📫 How to reach me: e-mail id - p.pati.92@proton.me
 - 😄 Pronouns: he/him/his
 
